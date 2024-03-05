@@ -10,7 +10,7 @@ int main()
 
 	cout << "Tipos Numericos\n";
 	cout << "Alterado por Renan Oliveira Ewbank\n";
-	cout << "Com esforço e dedicação, eu sou capaz de aprender tudo o que eu quiser!\n";
+	cout << "Com esforço e dedicação, eu sou capaz de aprender tudo oque eu quiser!\n";
 	cout << "==========================\n\n";
 	int i = 10;
 	short s = 18;
